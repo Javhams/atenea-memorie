@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1d481cb.chunk.css",
+    "main.js": "/static/js/main.1bd7d6ba.chunk.js",
+    "main.js.map": "/static/js/main.1bd7d6ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20628b47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20628b47.js.map",
+    "static/js/2.bfb52602.chunk.js": "/static/js/2.bfb52602.chunk.js",
+    "static/js/2.bfb52602.chunk.js.map": "/static/js/2.bfb52602.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.75b0ffb328784fcf75e7161019bd49b3.js": "/precache-manifest.75b0ffb328784fcf75e7161019bd49b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a1d481cb.chunk.css.map": "/static/css/main.a1d481cb.chunk.css.map",
+    "static/js/2.bfb52602.chunk.js.LICENSE.txt": "/static/js/2.bfb52602.chunk.js.LICENSE.txt",
+    "static/media/atenea.jpeg": "/static/media/atenea.3cff823a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20628b47.js",
+    "static/js/2.bfb52602.chunk.js",
+    "static/css/main.a1d481cb.chunk.css",
+    "static/js/main.1bd7d6ba.chunk.js"
+  ]
+}
